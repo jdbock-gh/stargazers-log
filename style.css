@@ -40,8 +40,18 @@ li a {
   text-decoration: none;
 }
 
-li a:hover {
+li a:hover,
+li a:focus-visible {
   text-decoration: underline;
+}
+
+li a:focus-visible {
+  outline: 3px solid #2563eb;
+  outline-offset: 3px;
+}
+
+.status-error {
+  color: #b91c1c;
 }
 
 .meta {
