@@ -1,0 +1,26 @@
+[
+  {
+    "name": "octo-tracker",
+    "description": "A lightweight dashboard for tracking GitHub activity.",
+    "url": "https://github.com/octo-tracker",
+    "language": "JavaScript",
+    "stargazers_count": 128,
+    "updated_at": "2026-07-20"
+  },
+  {
+    "name": "design-systems",
+    "description": "Reusable UI patterns for product teams.",
+    "url": "https://github.com/design-systems",
+    "language": "TypeScript",
+    "stargazers_count": 94,
+    "updated_at": "2026-07-18"
+  },
+  {
+    "name": "cli-notes",
+    "description": "Command-line tips and shortcuts for everyday development.",
+    "url": "https://github.com/cli-notes",
+    "language": "Shell",
+    "stargazers_count": 67,
+    "updated_at": "2026-07-15"
+  }
+]
